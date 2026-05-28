@@ -1,0 +1,31 @@
+{
+  "name": "@types/json-api",
+  "version": "0.1.0",
+  "description": "TypeScript declaration file for the JSON:API spec",
+  "keywords": [
+    "JSON:API",
+    "DefinitelyTyped",
+    "@types",
+    "json-api",
+    "TypeScript"
+  ],
+  "homepage": "https://github.com/amirsabanovic/json-api-ts#readme",
+  "bugs": {
+    "url": "https://github.com/amirsabanovic/json-api-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirsabanovic/json-api-ts.git"
+  },
+  "license": "MIT",
+  "author": "Amir Sabanovic",
+  "type": "module",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.52.0",
+    "oxlint": "^1.67.0"
+  }
+}
